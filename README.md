@@ -12,4 +12,9 @@ Benjamin Silbaugh
 
 ## Version
 1.0.0 - 9/14/2021
+
+## Notes
+I was not able to get to security/ input sanitization, logging, unit testing, integration testing, within the 3 hour time limit.  
+If I were writing this for an enterprise level application I would not ship it without all of the above.
+also I did not have time to attempt the extra credit assignment
  
